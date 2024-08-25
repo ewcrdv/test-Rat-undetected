@@ -1,3 +1,3 @@
 # test-Rat-undetected
 
-Проверка Защищености программы, Разработка будет и дальше по заащите программного обеспечения 
+Checking the security of the program, the development will continue to protect the software
